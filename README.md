@@ -84,6 +84,5 @@ Google query sheet
 
 ```
 
-```
-POWER BI
+![](IMG-20240114-WA0084)
 
