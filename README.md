@@ -76,6 +76,11 @@ Feel free to reach out to me for professional inquiries or collaborations.
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
 
+|NAME     |GENDER   |JOB      |
+|---------|---------|---------|
+|EDDIE    | MALE    | CHEF    |
+|JANE     | FEMALE  | NURSE   |
+|JOSHUA   | MALE    | TUTOR   |
 
 ```
 Google query sheet
@@ -84,5 +89,5 @@ Google query sheet
 
 ```
 
-![](image 3.jpg)
+![](image3.jpg)
 
