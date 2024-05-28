@@ -7,8 +7,7 @@
 #### *Home*
 *Egorke Ediri Aiyetan*
 - *Email*: [egorkeediri@gmail.com](mailto:egorkeediri@gmail.com)
-- *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/
-ediri-egorke-01630b1b7)
+- *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/ediri-egorke-01630b1b7)
 
 Welcome to my data analyst portfolio. Here you will find a showcase of my skills, projects, and professional experiences in data analysis.
 
@@ -73,7 +72,6 @@ I regularly share insights and tutorials related to data analysis on my blog.
 Feel free to reach out to me for professional inquiries or collaborations.
 
 - *Email*: [egorkeediri@gmail.com](mailto:egorkeediri@gmail.com)
-- *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/
-ediri-egorke-01630b1b7)
+- *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/ediri-egorke-01630b1b7)
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
