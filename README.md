@@ -75,3 +75,15 @@ Feel free to reach out to me for professional inquiries or collaborations.
 - *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/ediri-egorke-01630b1b7)
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
+
+
+```
+Google query sheet
+
+"SELECT A,C WHERE (A='EAST' OR A='WEST')
+
+```
+
+```
+POWER BI
+
