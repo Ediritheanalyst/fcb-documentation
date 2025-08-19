@@ -27,17 +27,12 @@ I’ve also gained valuable experience as a **Data Analysis Intern at Digital Sk
 ### 🔹 [Profit Analysis Dashboard](#)  
 - Built an interactive Excel dashboard to analyze **sales, profit, discounts, and seasonal trends**.  
 - Delivered actionable insights on **profitable products, key regions, and seasonal demand**.  
-- [📖 Read Full Summary](https://github.com/Ediritheanalyst/Profit-analysis-dashboard.md)  
+
 
 ### 🔹 [Kultra Mega Stores Inventory Analysis](#)  
 - Conducted SQL-based analysis on **2009–2012 order data** for the Abuja division.  
 - Identified stock trends, regional demand, and product-level profitability.  
-- Repository: *Coming soon*  
-
-### 🔹 [Amazon Product Reviews EDA](#)  
-- Exploratory Data Analysis (EDA) on customer reviews.  
-- Extracted insights on **customer sentiment, ratings, and product categories**.  
-- Repository: *Coming soon*  
+- Repository:
 
 ---
 
