@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 I am **Ediri Aiyetan Egorke**, a passionate **Data Analyst** and **Instructor** with a strong background in turning raw data into meaningful insights that drive decision-making.  
 
-Currently, I work as a **Data Analyst Instructor at Codar Tech**, where I train and mentor aspiring data professionals in **Excel, SQL, Power BI, and Python**. Alongside teaching, I actively build projects and case studies that demonstrate the practical application of data analytics in solving business challenges.  
+Currently, I work as a **Data Analyst Instructor at Codar Tech Africa**, where I train and mentor aspiring data professionals in **Excel, SQL, Power BI, and Python**. Alongside teaching, I actively build projects and case studies that demonstrate the practical application of data analytics in solving business challenges.  
 
 I’ve also gained valuable experience as a **Data Analysis Intern at Digital SkillsUp Africa (DSA)**, hosted by The Incubator Hub, where I worked on real-world datasets and reporting projects.  
 
