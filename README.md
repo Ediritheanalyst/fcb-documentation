@@ -1,93 +1,68 @@
-# fcb-documentation
+# 👋 Hi, I’m Ediri Aiyetan Egorke  
 
-## Portfoilo
+📊 **Data Analyst | Instructor @ Codar Tech | Excel | SQL | Power BI | Python**  
 
-### *Egorke Ediri Aiyetan's Data Analyst Portfolio*
+---
 
-#### *Home*
-*Egorke Ediri Aiyetan*
-- *Email*: [egorkeediri@gmail.com](mailto:egorkeediri@gmail.com)
-- *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/ediri-egorke-01630b1b7)
+## 👨‍💻 About Me  
+I am **Ediri Aiyetan Egorke**, a passionate **Data Analyst** and **Instructor** with a strong background in turning raw data into meaningful insights that drive decision-making.  
 
-Welcome to my data analyst portfolio. Here you will find a showcase of my skills, projects, and professional experiences in data analysis.
+Currently, I work as a **Data Analyst Instructor at Codar Tech**, where I train and mentor aspiring data professionals in **Excel, SQL, Power BI, and Python**. Alongside teaching, I actively build projects and case studies that demonstrate the practical application of data analytics in solving business challenges.  
 
-#### *About Me*
-I am a dedicated and detail-oriented data analyst with a background from the Global Tech Educational Institution. I possess strong skills in SQL, Power BI, Microsoft Excel, and Python. I am passionate about transforming data into actionable insights and am eager to contribute to data-driven decision-making.
+I’ve also gained valuable experience as a **Data Analysis Intern at Digital SkillsUp Africa (DSA)**, hosted by The Incubator Hub, where I worked on real-world datasets and reporting projects.  
 
-#### *Resume*
-- *Education*: Global Tech Educational Institution
-- *Certifications*:
-  - Incubator Nigeria
-  - Global Tech Institute
-- *Skills*:
-  - Programming Languages: SQL, Python
-  - Data Analysis Tools: Power BI, Microsoft Excel
-  - Soft Skills: Communication, Problem-Solving, Teamwork
+---
 
-#### *Projects*
-Here are some of the projects I have worked on, showcasing my expertise in data analysis:
+## 🎯 Skills & Tools  
 
-1. *HR Data Analysis*
-   - *Description*: Analyzed HR data to identify patterns and insights related to employee turnover, performance, and satisfaction.
-   - *Skills Demonstrated*: Data cleaning and preprocessing, exploratory data analysis (EDA), data visualization.
-   - *Tools Used*: Python (Pandas, Matplotlib), Microsoft Excel.
-   - *Case Study/Report*: [Link to detailed case study or report]
+- **Data Analysis & Visualization**: Excel, Power BI, Python (pandas, matplotlib)  
+- **Databases & Querying**: MySQL, MS SQL  
+- **Business Reporting**: Dashboards, performance tracking, insights communication  
+- **Training & Facilitation**: Guiding students in data analytics concepts and projects  
 
-2. *Sales Dashboard with Power BI*
-   - *Description*: Created an interactive sales dashboard to visualize key performance indicators (KPIs) for a retail company.
-   - *Skills Demonstrated*: Data visualization, dashboard creation, interactive reporting.
-   - *Tools Used*: Power BI, SQL.
-   - *Case Study/Report*: [Link to detailed case study or report]
+---
 
-3. *Predictive Model for Customer Churn*
-   - *Description*: Built a predictive model to identify customers at risk of churning based on historical data.
-   - *Skills Demonstrated*: Feature engineering, model building, evaluation metrics.
-   - *Tools Used*: Python (Scikit-learn).
-   - *Case Study/Report*: [Link to detailed case study or report]
+## 📂 Featured Projects  
 
-#### *Blog*
-I regularly share insights and tutorials related to data analysis on my blog.
+### 🔹 [Profit Analysis Dashboard](#)  
+- Built an interactive Excel dashboard to analyze **sales, profit, discounts, and seasonal trends**.  
+- Delivered actionable insights on **profitable products, key regions, and seasonal demand**.  
+- [📖 Read Full Summary](profit_analysis_summary.md)  
 
-1. *How to Clean Data with Python*
-   - *Summary*: A step-by-step guide on cleaning and preprocessing data using Python.
-   - *Full Post*: [Link to blog post]
+### 🔹 [Kultra Mega Stores Inventory Analysis](#)  
+- Conducted SQL-based analysis on **2009–2012 order data** for the Abuja division.  
+- Identified stock trends, regional demand, and product-level profitability.  
+- Repository: *Coming soon*  
 
-2. *Introduction to Exploratory Data Analysis (EDA)*
-   - *Summary*: An introduction to the concepts and techniques of EDA.
-   - *Full Post*: [Link to blog post]
+### 🔹 [Amazon Product Reviews EDA](#)  
+- Exploratory Data Analysis (EDA) on customer reviews.  
+- Extracted insights on **customer sentiment, ratings, and product categories**.  
+- Repository: *Coming soon*  
 
-3. *Building Interactive Dashboards with Power BI*
-   - *Summary*: A tutorial on creating interactive dashboards in Power BI.
-   - *Full Post*: [Link to blog post]
+---
 
-#### *Certifications and Courses*
-- *Certifications*:
-  - Incubator Nigeria (Data Analysis Certification)
-  - Global Tech Institute (Advanced Data Analytics Certificate)
+## 📚 Background & Education  
 
-- *Relevant Courses*:
-  - Completed a series of courses on data analysis and visualization, enhancing my skills in SQL, Power BI, and Python.
+- 🎓 Graduate of **Adult and Non-Formal Education**, University of Benin  
+- 📊 Certified Data Analyst — **Global Tech Computer Institute**  
+- 📊 Certified Data Analyst — **The Incubator Nigeria**  
 
-#### *Contact*
-Feel free to reach out to me for professional inquiries or collaborations.
+---
 
-- *Email*: [egorkeediri@gmail.com](mailto:egorkeediri@gmail.com)
-- *LinkedIn*: [Egorke Ediri Aiyetan](#) (www.linkedin.com/in/ediri-egorke-01630b1b7)
+## 🌍 Beyond Analytics  
 
-Thank you for visiting my portfolio. I look forward to connecting with you!
+Outside data analysis, I am passionate about **teaching, mentoring, and empowering youth** with digital skills. I actively contribute to tech communities and believe in using data to create impact in education, business, and social initiatives.  
 
-|NAME     |GENDER   |JOB      |
-|---------|---------|---------|
-|EDDIE    | MALE    | CHEF    |
-|JANE     | FEMALE  | NURSE   |
-|JOSHUA   | MALE    | TUTOR   |
+---
 
-```
-Google query sheet
+## 📫 Let’s Connect  
 
-"SELECT A,C WHERE (A='EAST' OR A='WEST')
+- ✉️ **Email**: [egorkeediri@gmail.com](mailto:egorkeediri@gmail.com)  
+- 💼 **LinkedIn**: [Ediri Egorke](https://www.linkedin.com/in/ediri-egorke-01630b1b7)  
+- 🖥 **GitHub**: [Ediritheanalyst](https://github.com/Ediritheanalyst)  
 
-```
+---
+
 
 ![](image3.jpg)
 
